@@ -1,4 +1,4 @@
-//Comisión 2.
+//Comisión 2. https://www.youtube.com/watch?v=_DXmbklst60
 //Martina Fuhr 119031/9; Julia Ferrari 119028/6.
 let objJuego; //variable objeto tipo juego con las características de la class, declaro un objeto y lo inicializo con mi clase.
 let imagen = [];
